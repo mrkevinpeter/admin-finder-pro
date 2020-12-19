@@ -1,7 +1,10 @@
 # Admin Finder Pro
-Admin Finder Pro Script in python.
+Admin Finder Pro in python.
+
 I can surely say that it will be the best admin finder you ever used.Admin finder pro contains both custom and default (pr-installed) wordlists.Admin finder pro is written in python and is much faster.It can many type of wordlists like for .html, .asp ,.php , .cfm and many more.I suggest to use it once...
+
 Written in {Python3}
+
 Written by [Kevin Peter](https://github.com/mrkevinpeter)
 
 # Using Script
@@ -20,14 +23,19 @@ Command on Linux Terminal/Termux:
 6)Now it wiil start its work and there will be a beep and it will done
 # Git Link
 [https://github.com/mrkevinpeter/admin-finder-pro](https://github.com/mrkevinpeter/admin-finder-pro)
+
 git clone [https://github.com/mrkevinpeter/admin-finder-pro](https://github.com/mrkevinpeter/admin-finder-pro)
 
 # MrKevinPeter
-T
+Proud to be Pakistani
 # Follow me!
+
 Instagram: [@MrKevinPeter](https://instagram.com/mrkevinpeter)
+
 Facebook: [@MrKevinPeter](https://facebook.com/mrkevinpeter)
+
 Twitter: [@MrKevinPeter](https://twitter.com/mrkevinpeter)
+
 LinkedIn: [@MrKevinPeter](https://linkedin.com/mrkevinpeter)
 
 #YOUTUBE
