@@ -63,25 +63,25 @@ elif scr==2:
 	print("7) BRF")
 	scrt=int(input("::>"))
 	if scrt==1:
-		arq = open("~/sourcefiles/hwtlml.txt","r")
+		arq = open("sourcefiles/hwtlml.txt","r")
 		kevin()
 	elif scrt==2:
-		arq = open("~/sourcefiles/pwhlp.txt","r")
+		arq = open("sourcefiles/pwhlp.txt","r")
 		kevin()
 	elif scrt==3:
-		arq = open("~/sourcefiles/awslp.txt","r")
+		arq = open("sourcefiles/awslp.txt","r")
 		kevin()
 	elif scrt==4:
-		arq = open("~/sourcefiles/cwflm.txt","r")
+		arq = open("sourcefiles/cwflm.txt","r")
 		kevin()
 	elif scrt==5:
-		arq = open("~/sourcefiles/jwsl.txt","r")
+		arq = open("sourcefiles/jwsl.txt","r")
 		kevin()
 	elif scrt==6:
-		arq = open("~/soucrefiles/cwgli.txt","r")
+		arq = open("soucrefiles/cwgli.txt","r")
 		kevin()
 	elif scrt==7:
-		arq = open("~/sourcefiles/bwrlf.txt","r")
+		arq = open("sourcefiles/bwrlf.txt","r")
 		kevin()
 	else:
 		print("Invaild Input!")
