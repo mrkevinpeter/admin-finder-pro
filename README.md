@@ -12,7 +12,7 @@ Written by [Kevin Peter](https://github.com/mrkevinpeter)
 Windows
 
 # Using Script
-Command on Linux Terminal/Termux:
+Command in CMD:
 
 1)type "cd admin-finder-pro" to into adminfinderpro directory.
 
