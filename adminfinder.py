@@ -14,8 +14,8 @@ print("""
 print("TY:Hackerslaboratory  SocialMedia:@MrKevinPeter\n\n")
 
 
-
-url=input("Enter the Website URL: ")
+print("Enter a Url (example.com/www.example.com")
+url=input("{URL}==>> ")
 
 def kevin():
 	lives=[]
@@ -26,7 +26,7 @@ def kevin():
 
 	for line in lines:
 		line =line.replace("\n", "")
-		request = url+'/'+line
+		request = 'http://'+url+'/'+line
 		http = requests.get(request)
 		code = http.status_code
 		if code != 301 and code!= 404:
