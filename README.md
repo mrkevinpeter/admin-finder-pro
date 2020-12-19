@@ -7,6 +7,10 @@ Written in {Python3}
 
 Written by [Kevin Peter](https://github.com/mrkevinpeter)
 
+# Plateform
+
+Windows
+
 # Using Script
 Command on Linux Terminal/Termux:
 
@@ -38,7 +42,7 @@ Twitter: [@MrKevinPeter](https://twitter.com/mrkevinpeter)
 
 LinkedIn: [@MrKevinPeter](https://linkedin.com/mrkevinpeter)
 
-#YOUTUBE
+# YOUTUBE
 [Subscribe Now](https://www.youtube.com/channel/hackerlaboratory) 
 
 # Contact
