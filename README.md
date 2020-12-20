@@ -9,10 +9,10 @@ Written by [Kevin Peter](https://github.com/mrkevinpeter)
 
 # Plateform
 
-Linux / Termux
+Linux / WIn / Termux
 
 # Using Script
-Command in Linux Terminal/Termux:
+Command in Linux Terminal/Termux/Cmd:
 
 1)type "cd admin-finder-pro" to into adminfinderpro directory.
 
