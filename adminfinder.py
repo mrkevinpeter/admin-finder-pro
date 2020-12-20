@@ -88,4 +88,8 @@ try:
 	else:
 		print("Invaild Input!")
 except:
-	print("\n\t\a\bThere are Some Errors!")
+	print("\n\t\aUnable to move on!")
+	print("Common Errors:")
+	print("\t(i)Keyboard Intrruption.")
+	print("\t(ii)Invaild Inputs.")
+	print("\t(iii)Week Internet Connection.")
