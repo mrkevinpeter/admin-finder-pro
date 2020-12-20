@@ -89,7 +89,7 @@ try:
 		print("Invaild Input!")
 except:
 	print("\n\t\aUnable to move on!")
-	print("Common Errors:")
+	print("\nCommon Errors:")
 	print("\t(i)Keyboard Intrruption.")
 	print("\t(ii)Invaild Inputs.")
 	print("\t(iii)Week Internet Connection.")
