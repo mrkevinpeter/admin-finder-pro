@@ -9,7 +9,7 @@ Written by [Kevin Peter](https://github.com/mrkevinpeter)
 
 # Plateform
 
-Linux / WIn / Termux
+Linux / Win / Termux
 
 # Using Script
 Command in Linux Terminal/Termux/Cmd:
