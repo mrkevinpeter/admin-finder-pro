@@ -14,15 +14,15 @@ Linux / Win / Termux
 # Using Script
 Command in Linux Terminal/Termux/Cmd:
 
-1)type "cd admin-finder-pro" to into adminfinderpro directory.
+1)type "pip install requests".
 
-2)type "python  admin-page-finder.py" to run the script.
+2)type "python3  adminfinder.py" to run the script.
 
 3)Give url as (www.example.com or example.com) without ending slash
 
 4)type the  number according to your choice either if you want to use your own wordlist or default (pre-installed)
 
-5)Choose the type of login page you want to find.
+5)Choose the type of login page you want to find(in case if you selected default wordlist 2).
 
 6)Now it wiil start its work and there will be a beep and it will done
 # Git Link
