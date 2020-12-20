@@ -14,7 +14,7 @@ Linux / Win / Termux
 # Using Script
 Command in Linux Terminal/Termux/Cmd:
 
-1)type "pip install requests".
+1)type "pip3 install requests".
 
 2)type "python3  adminfinder.py" to run the script.
 
