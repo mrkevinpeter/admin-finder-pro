@@ -43,7 +43,7 @@ Twitter: [@MrKevinPeter](https://twitter.com/mrkevinpeter)
 LinkedIn: [@MrKevinPeter](https://linkedin.com/mrkevinpeter)
 
 # YOUTUBE
-[Subscribe Now](https://www.youtube.com/channel/cyberinspect) 
+[Subscribe Now](https://youtube.com/c/CyberInspect) 
 
 # Contact
 Email: [Send Mail](mailto:mrkevinpeter.info@Gmail.Com)
