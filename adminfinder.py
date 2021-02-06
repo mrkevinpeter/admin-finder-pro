@@ -13,7 +13,7 @@ try:
 	 /_/ \_\__,_|_|_|_| |_|_||_|  |_|   |_|_||_|\__,_\___||_|   
 	                                                            
 		""")
-	print("TY:Hackerslaboratory  SocialMedia:@MrKevinPeter\n\n")
+	print("TY:CyberInspect  SocialMedia:@MrKevinPeter\n\n")
 
 
 	print("Enter a Url (example.com/www.example.com")
